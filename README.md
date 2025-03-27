@@ -47,7 +47,7 @@ A full-featured blog application where users can create, read, update, and delet
 
 ## Contact Me
 
-- **Email:** krishnakumaryadav45@example.com
+- **Email:** ky8702385@gmail.com
 - **LinkedIn:** [Krishna Kumar Yadav](https://www.linkedin.com/in/krishnakumaryadav45)
 - **GitHub:** [krishnakumaryadav45](https://github.com/krishnakumaryadav45)
 
